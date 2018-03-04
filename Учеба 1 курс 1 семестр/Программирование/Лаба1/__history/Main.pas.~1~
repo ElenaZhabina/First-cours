@@ -1,0 +1,42 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    ESumm: TEdit;
+    ERazn: TEdit;
+    EUmnozh: TEdit;
+    EDelenie: TEdit;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    EChislo1: TEdit;
+    EChislo2: TEdit;
+    Label9: TLabel;
+    Label10: TLabel;
+    BRasschet: TButton;
+    BExit: TButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.

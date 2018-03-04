@@ -1,0 +1,15 @@
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\УДАЛИТЬ СЛОВО ИЗ СТРОКИ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

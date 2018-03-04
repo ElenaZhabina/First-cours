@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.03.06 21:19:03.456.pas,C:\Users\Samsung\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Samsung\Documents\Елена\Программирование\Лаба4\Unit1.pas</Transaction>
+    <Transaction>2016.03.06 21:19:03.465.dfm,C:\Users\Samsung\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Samsung\Documents\Елена\Программирование\Лаба4\Unit1.dfm</Transaction>
+    <Transaction>2016.03.06 21:19:04.926.dproj,C:\Users\Samsung\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Samsung\Documents\Елена\Программирование\Лаба4\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

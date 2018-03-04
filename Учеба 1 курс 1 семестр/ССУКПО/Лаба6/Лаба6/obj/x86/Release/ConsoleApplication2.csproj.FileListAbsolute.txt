@@ -1,0 +1,5 @@
+C:\Users\Samsung\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\Samsung\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\Samsung\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Samsung\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+C:\Users\Samsung\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb

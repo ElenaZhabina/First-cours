@@ -1,0 +1,19 @@
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\студент\Рабочий стол\ссукпо\2015\ЗАНЯТИЕ 12 1_12_15\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConsoleApplication1">
+</Property><Property Name="Файл решения" Value="D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1.sln">
+</Property><Property Name="Файл параметров пользователя" Value="D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1.suo">
+</Property><Property Name="Date" Value="30 ноября 2013 г.">
+</Property><Property Name="Time" Value="11:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConsoleApplication1.sln" Description="Успешно создана резервная копия файла D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\Backup\ConsoleApplication1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication1.suo" Description="Успешно создана резервная копия файла D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\Backup\ConsoleApplication1.suo">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Успешно создана резервная копия файла проекта: D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\Backup\ConsoleApplication1\ConsoleApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Program.cs" Description="Успешно создана резервная копия файла D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\Backup\ConsoleApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\Backup\ConsoleApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="ConsoleApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,20 @@
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\РАБОТА СО СТРОКАМИ STRING\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

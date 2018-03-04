@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.02.21 20:16:41.274.pas,C:\Users\User\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\User\Desktop\Delfi\ЛБ5\лаб5.pas</Transaction>
+    <Transaction>2016.02.21 20:16:41.275.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\User\Desktop\Delfi\ЛБ5\лаб5.dfm</Transaction>
+    <Transaction>2016.02.21 20:16:49.568.pas,C:\Users\User\Documents\RAD Studio\Projects\Unit5.pas=C:\Users\User\Desktop\Delfi\ЛБ5\раб5.pas</Transaction>
+    <Transaction>2016.02.21 20:16:49.568.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit5.dfm=C:\Users\User\Desktop\Delfi\ЛБ5\раб5.dfm</Transaction>
+    <Transaction>2016.02.21 20:17:04.103.pas,C:\Users\User\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\User\Desktop\Delfi\ЛБ5\лаб.pas</Transaction>
+    <Transaction>2016.02.21 20:17:04.103.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\User\Desktop\Delfi\ЛБ5\лаб.dfm</Transaction>
+    <Transaction>2016.02.21 20:17:09.351.pas,C:\Users\User\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\User\Desktop\Delfi\ЛБ5\раб.pas</Transaction>
+    <Transaction>2016.02.21 20:17:09.351.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\User\Desktop\Delfi\ЛБ5\раб.dfm</Transaction>
+    <Transaction>2016.02.21 20:18:14.148.pas,C:\Users\User\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\User\Desktop\Delfi\ЛБ5\Uлаб1.pas</Transaction>
+    <Transaction>2016.02.21 20:18:14.148.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\Delfi\ЛБ5\Uлаб1.dfm</Transaction>
+    <Transaction>2016.02.21 20:18:22.190.dproj,C:\Users\User\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\User\Desktop\Delfi\ЛБ5\Pлаб1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

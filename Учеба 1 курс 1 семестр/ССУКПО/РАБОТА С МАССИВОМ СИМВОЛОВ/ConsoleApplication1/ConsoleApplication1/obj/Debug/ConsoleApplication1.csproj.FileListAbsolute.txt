@@ -1,0 +1,5 @@
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА С МАССИВОМ СИМВОЛОВ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА С МАССИВОМ СИМВОЛОВ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА С МАССИВОМ СИМВОЛОВ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА С МАССИВОМ СИМВОЛОВ\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\РАБОТА С МАССИВОМ СИМВОЛОВ\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

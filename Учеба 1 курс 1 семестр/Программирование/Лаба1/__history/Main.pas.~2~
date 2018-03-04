@@ -1,0 +1,74 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    EChislo1: TEdit;
+    EChislo2: TEdit;
+    ESumma: TEdit;
+    ERazn: TEdit;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    BRasschet: TButton;
+    BExit: TButton;
+    Label10: TLabel;
+    EProizv: TEdit;
+    EDelenie: TEdit;
+    procedure BRasschetClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.BExitClick(Sender: TObject);
+begin
+Close;
+end;
+
+procedure TForm1.BRasschetClick(Sender: TObject);
+  Var
+LChislo1,       //первое число
+LChislo2,       //второе число
+LSumma,         //сумма чисел
+LRaznost,       //разность чисел
+LProizvedenie,  //произведение чисел
+LChastnoe: Real //деление чисел
+
+begin
+
+ LChislo1 := StrToFloat(EChislo1.Text);
+ LChislo2 := StrToFloat(EChislo2.Text);
+ LSumma := LChislo1+LChislo2;
+ LRaznost:= LChislo1-LChislo2;
+ LProizvedenie:= LChislo1*LChislo2;
+ LChastnoe:= LChislo1/LChislo2;
+
+
+ ESumma.Text:=FloatToStr(LSumma);
+ ERazn.Text:= FloatToStr(LRaznost);
+ EProizv.Text:= FloatToStr(LProizvedenie);
+ EDelenie.Text:= FloatToStr(LChastnoe);
+end;
+
+
+end.

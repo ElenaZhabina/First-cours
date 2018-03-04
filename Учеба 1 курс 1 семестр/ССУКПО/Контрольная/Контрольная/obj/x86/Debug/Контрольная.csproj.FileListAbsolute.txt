@@ -1,0 +1,5 @@
+C:\Users\Samsung\Documents\Елена\Контрольная\Контрольная\bin\Debug\Контрольная.exe
+C:\Users\Samsung\Documents\Елена\Контрольная\Контрольная\bin\Debug\Контрольная.pdb
+C:\Users\Samsung\Documents\Елена\Контрольная\Контрольная\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Елена\Контрольная\Контрольная\obj\x86\Debug\Контрольная.exe
+C:\Users\Samsung\Documents\Елена\Контрольная\Контрольная\obj\x86\Debug\Контрольная.pdb

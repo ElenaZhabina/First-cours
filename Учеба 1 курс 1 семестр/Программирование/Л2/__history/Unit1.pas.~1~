@@ -1,0 +1,68 @@
+﻿unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    BSchet: TButton;
+    BExit: TButton;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    RGChoise: TRadioGroup;
+    MRaschet: TMemo;
+    procedure BExitClick(Sender: TObject);
+    procedure BSchetClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.BExitClick(Sender: TObject);
+begin
+Close ;
+end;
+
+procedure TForm1.BSchetClick(Sender: TObject);
+begin
+case RGChoise.ItemIndex of
+0 : begin
+  MRaschet.Clear;
+  MRaschet.Lines.Add('Площадь треугольника:')    ;
+  MRaschet.Lines.Add('S = 	1/2	* 6= 3') ;
+  MRaschet.Lines.Add('Периметр треугольника:');
+  MRaschet.Lines.Add('AB = (7— 1)^2 + (6— 0)^2=7√2');
+  MRaschet.Lines.Add('BC = (3— 7)^2 + (1— 6)^2=√41');
+  MRaschet.Lines.Add('AC = (3— 1)^2 + (1— 0)^2=√5');
+  MRaschet.Lines.Add('P=AB+BC+AC=√72+√41+√5');
+ end;
+  1 : begin
+  MRaschet.Clear;
+  MRaschet.Lines.Add('Площадь треугольника:')    ;
+  MRaschet.Lines.Add('S = 	1/2	|AB × AC|');
+  MRaschet.Lines.Add('S = 	1/2*52= 26') ;
+  MRaschet.Lines.Add('Периметр треугольника:');
+  MRaschet.Lines.Add('AB = √(3— 7)^2 + (1— 9)^2=√80');
+  MRaschet.Lines.Add('BC = √(2— 3)^2 + (12— 1)^2=√122');
+  MRaschet.Lines.Add('AC = √(2— 7)^2 + (12— 9)^2=√34');
+  MRaschet.Lines.Add('P=AB+BC+AC=√80+√122+√34');
+
+end;
+
+end;
+end;
+
+end.

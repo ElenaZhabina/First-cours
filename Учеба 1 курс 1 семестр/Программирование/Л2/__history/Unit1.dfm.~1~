@@ -1,0 +1,85 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = #1051#1072#1073#1086#1088#1072#1090#1086#1088#1085#1072#1103' '#1088#1072#1073#1086#1090#1072' '#8470'2'
+  ClientHeight = 310
+  ClientWidth = 599
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 24
+    Width = 73
+    Height = 13
+    Caption = #1046#1072#1073#1080#1085#1072' '#1045#1083#1077#1085#1072
+  end
+  object Label2: TLabel
+    Left = 144
+    Top = 24
+    Width = 80
+    Height = 13
+    Caption = #1043#1088#1091#1087#1087#1072' '#1059#1041'15-09'
+  end
+  object Label3: TLabel
+    Left = 304
+    Top = 24
+    Width = 64
+    Height = 13
+    Caption = #1042#1072#1088#1080#1072#1085#1090' '#8470'7'
+  end
+  object Label4: TLabel
+    Left = 24
+    Top = 64
+    Width = 418
+    Height = 13
+    Caption = 
+      #1047#1072#1076#1072#1085#1099' '#1082#1086#1086#1088#1076#1080#1085#1072#1090#1099' '#1090#1088#1077#1093' '#1074#1077#1088#1096#1080#1085' '#1090#1088#1077#1091#1075#1086#1083#1100#1085#1080#1082#1072'. '#1053#1072#1081#1090#1080' '#1077#1075#1086' '#1087#1077#1088#1080#1084#1077#1090#1088' '#1080 +
+      ' '#1087#1083#1086#1097#1072#1076#1100'.'
+  end
+  object BSchet: TButton
+    Left = 492
+    Top = 125
+    Width = 75
+    Height = 25
+    Caption = #1056#1072#1089#1089#1095#1080#1090#1072#1090#1100
+    TabOrder = 0
+    OnClick = BSchetClick
+  end
+  object BExit: TButton
+    Left = 492
+    Top = 256
+    Width = 75
+    Height = 25
+    Caption = #1042#1099#1093#1086#1076
+    TabOrder = 1
+    OnClick = BExitClick
+  end
+  object RGChoise: TRadioGroup
+    Left = 31
+    Top = 112
+    Width = 200
+    Height = 154
+    Caption = #1058#1088#1077#1091#1075#1086#1083#1100#1085#1080#1082' '#1040#1042#1057' '#1089' '#1082#1086#1086#1088#1076#1080#1085#1072#1090#1072#1084#1080
+    ItemIndex = 0
+    Items.Strings = (
+      ' A(1;0) B(7;6) '#1057'(3;-1)'
+      ' '#1040'(7;9), '#1042'(3;10), '#1057'(2;12)')
+    TabOrder = 2
+  end
+  object MRaschet: TMemo
+    Left = 237
+    Top = 112
+    Width = 249
+    Height = 169
+    Lines.Strings = (
+      'MRaschet')
+    TabOrder = 3
+  end
+end

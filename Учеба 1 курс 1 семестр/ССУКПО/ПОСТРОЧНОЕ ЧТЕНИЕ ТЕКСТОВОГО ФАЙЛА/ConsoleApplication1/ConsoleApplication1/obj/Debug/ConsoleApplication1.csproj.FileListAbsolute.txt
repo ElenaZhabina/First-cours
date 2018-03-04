@@ -1,0 +1,14 @@
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Наши_библиотеки\Alex\PROCRAM_C\ALEX_PRG\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Наши_библиотеки\Alex\PROGRAM on C\ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ С-ШАРП\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 30_11_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\УЧЕБНЫЙ КУРС  ССУКПО\СОДЕРЖАНИЕ КУРСА 2015\ЗАНЯТИЕ 12 1_12_15\ПОСТРОЧНОЕ ЧТЕНИЕ ТЕКСТОВОГО ФАЙЛА\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

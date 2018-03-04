@@ -1,0 +1,99 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = #1062#1080#1082#1083' For'
+  ClientHeight = 324
+  ClientWidth = 526
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 40
+    Top = 128
+    Width = 65
+    Height = 13
+    Caption = #1061' '#1085#1072#1095#1072#1083#1100#1085#1099#1081
+  end
+  object Label2: TLabel
+    Left = 40
+    Top = 168
+    Width = 59
+    Height = 13
+    Caption = #1061' '#1082#1086#1085#1077#1095#1085#1099#1081
+  end
+  object Label3: TLabel
+    Left = 40
+    Top = 208
+    Width = 21
+    Height = 13
+    Caption = #1064#1072#1075
+  end
+  object Label4: TLabel
+    Left = 40
+    Top = 32
+    Width = 318
+    Height = 13
+    Caption = #1055#1088#1086#1090#1072#1073#1091#1083#1080#1088#1086#1074#1072#1090#1100' '#1092#1091#1085#1082#1094#1080#1102', '#1088#1077#1079#1091#1083#1100#1090#1072#1090' '#1074#1099#1074#1077#1089#1090#1080' '#1074' '#1087#1086#1083#1077' Memo.'
+  end
+  object Label5: TLabel
+    Left = 40
+    Top = 63
+    Width = 88
+    Height = 13
+    Caption = #1091'='#8730'1-'#1093' - cos'#8730'1-'#1093
+  end
+  object Edit1: TEdit
+    Left = 136
+    Top = 125
+    Width = 121
+    Height = 21
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 136
+    Top = 165
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object Edit3: TEdit
+    Left = 136
+    Top = 205
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object Button1: TButton
+    Left = 40
+    Top = 248
+    Width = 75
+    Height = 25
+    Caption = #1056#1072#1089#1095#1080#1090#1072#1090#1100
+    TabOrder = 3
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 212
+    Top = 272
+    Width = 75
+    Height = 25
+    Caption = #1042#1099#1093#1086#1076
+    TabOrder = 4
+    OnClick = Button2Click
+  end
+  object Memo1: TMemo
+    Left = 312
+    Top = 125
+    Width = 193
+    Height = 101
+    Lines.Strings = (
+      '')
+    TabOrder = 5
+  end
+end

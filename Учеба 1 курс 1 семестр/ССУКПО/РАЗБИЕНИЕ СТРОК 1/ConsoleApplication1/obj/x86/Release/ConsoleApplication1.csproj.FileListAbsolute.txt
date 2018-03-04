@@ -1,0 +1,10 @@
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Documents and Settings\alexey\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Samsung\Desktop\ССУКПО\РАЗБИЕНИЕ СТРОК 1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
